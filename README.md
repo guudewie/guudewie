@@ -1,10 +1,73 @@
-## Hi there 👋
+# Hi there 👋
 
 
 - 🔭 I’m currently working on The Odin Project
 - 🌱 I’m currently learning React
 - 💡 I’m interested in *web-development*, *ethical hacking* and *software engineering*
 
+
+## 🔧 Technologies & Tools
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br /><strong>Javascript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="Html"
+      />
+      <br /><strong>HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="css"
+      />
+      <br /><strong>CSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Material UI</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+  </tr>
+</table>
+
+## 📈 Stats
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=guudewie&show_icons=true&theme=react&&hide_border=true"
@@ -14,3 +77,4 @@
 />
 <br/>
 ![](https://komarev.com/ghpvc/?username=guudewie)
+
