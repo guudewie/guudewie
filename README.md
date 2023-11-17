@@ -86,12 +86,14 @@
 
 ## 🎛️ Stats
 <br>
+
+<div>
 <img
-  src="https://github-readme-stats.vercel.app/api?username=guudewie&show_icons=true&theme=react&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=guudewie&&theme=default&&hide_border=true"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=guudewie&&theme=react&&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guudewie&layout=compact"
 />
+<div/>
 <br/>
-![](https://komarev.com/ghpvc/?username=guudewie)
 
