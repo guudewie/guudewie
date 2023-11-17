@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning React
 - 💡 I’m interested in *web-development*, *ethical hacking* and *software engineering*
 
-
+<br><br>
 ## 🔧 Technologies & Tools
-
+<br>
 <table>
   <tr>
     <td align="center" height="108" width="108">
@@ -21,7 +21,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html5-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
         height="48"
         alt="Html"
@@ -30,7 +30,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css3-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
         height="48"
         alt="css"
@@ -66,9 +66,9 @@
     </td>
   </tr>
 </table>
-
+<br><br>
 ## 📈 Stats
-
+<br>
 <img
   src="https://github-readme-stats.vercel.app/api?username=guudewie&show_icons=true&theme=react&&hide_border=true"
 />
