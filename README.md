@@ -1,7 +1,7 @@
 # Hi there 👋
 
-
-- 🔭 I’m currently working on The Odin Project
+<br>
+- 🔭 Working on The Odin Project
 - 🌱 I’m currently learning React
 - 💡 I’m interested in *web-development*, *ethical hacking* and *software engineering*
 
@@ -18,6 +18,7 @@
         alt="javascript"
       />
       <br /><strong>Javascript</strong>
+      <br /><div>Journeyman</div>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -27,6 +28,7 @@
         alt="Html"
       />
       <br /><strong>HTML</strong>
+      <br /><div>Journeyman</div>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -36,6 +38,7 @@
         alt="css"
       />
       <br /><strong>CSS</strong>
+      <br /><div>Journeyman</div>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -45,6 +48,7 @@
         alt="React"
       />
       <br /><strong>React</strong>
+      <br /><div>Apprentice</div>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -54,6 +58,17 @@
         alt="Material UI"
       />
       <br /><strong>Material UI</strong>
+      <br /><div>Explorer</div>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Git</strong>
+      <br /><div>Noob</div>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -63,6 +78,7 @@
         alt="Python"
       />
       <br /><strong>Python</strong>
+      <br /><div>Explorer</div>
     </td>
   </tr>
 </table>
