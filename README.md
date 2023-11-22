@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://labs.earthpeople.se/files/2013/10/walkingman.gif"/>
+</div
+<br>
+
 # Hi there 👋
 
 <br>
@@ -87,13 +92,5 @@
 ## 🎛️ Stats
 <br>
 
-<div>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=guudewie&&theme=default&&hide_border=true"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=guudewie&layout=compact"
-/>
-<div/>
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=guudewie&theme=prussian&border_radius=15&mode=weekly)](https://git.io/streak-stats)
 
