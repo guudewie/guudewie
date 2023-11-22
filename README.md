@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" >
   <img src="https://labs.earthpeople.se/files/2013/10/walkingman.gif"/>
 </div
 <br>
@@ -92,5 +92,5 @@
 ## 🎛️ Stats
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=guudewie&theme=prussian&border_radius=15&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=guudewie&theme=graywhite&border_radius=15&mode=weekly)](https://git.io/streak-stats)
 
