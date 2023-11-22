@@ -73,7 +73,7 @@
         alt="Material UI"
       />
       <br /><strong>Git</strong>
-      <br /><sub>Noob</sub>
+      <br /><sub>Padawan</sub>
     </td>
     <td align="center" height="130" width="120">
       <img
