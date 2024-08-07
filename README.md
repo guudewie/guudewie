@@ -7,7 +7,7 @@
 
 <br>
 - 🔭 Working on The Odin Project<br>
-- 🌱 I’m currently learning React<br>
+- 🌱 I’m currently learning Express<br>
 - 💡 I’m interested in web-development, ethical hacking and software engineering<br>
 
 <br><br>
@@ -83,6 +83,16 @@
         alt="Python"
       />
       <br /><strong>Python</strong>
+      <br /><sub>Explorer</sub>
+    </td>
+    <td align="center" height="130" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Express</strong>
       <br /><sub>Explorer</sub>
     </td>
   </tr>
