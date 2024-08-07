@@ -95,6 +95,27 @@
       <br /><strong>Express</strong>
       <br /><sub>Explorer</sub>
     </td>
+    </td>
+    <td align="center" height="130" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>MongoDB</strong>
+      <br /><sub>Apprectice</sub>
+    </td>
+    <td align="center" height="130" width="120">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>PostgreSQL</strong>
+      <br /><sub>Apprectice</sub>
+    </td>
   </tr>
 </table>
 <br><br>
