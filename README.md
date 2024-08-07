@@ -65,6 +65,8 @@
       <br /><strong>Material UI</strong>
       <br /><sub>Explorer</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="130" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
