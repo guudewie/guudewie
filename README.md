@@ -125,5 +125,4 @@
 ## 🎛️ Stats
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=guudewie&theme=graywhite&border_radius=15&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=guudewie&theme=graywhite&border_radius=15&mode=weekly)](https://git.io/streak-stats)
